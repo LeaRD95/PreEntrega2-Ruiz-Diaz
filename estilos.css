@@ -5,9 +5,8 @@ footer {
     height: 50px;
     color: white;
     font-size: 10px;
-
-
-/* estilo para el contacto */
+}
+/*Inicio de estilo para el contacto */
 .container {
     max-width: 600px;
     margin: 0 auto;
@@ -26,10 +25,11 @@ footer {
 }
 
 .btn-primary {
-    background-color: #007bff;
+    background-color: #0011ff;
     border: none;
 }
 
 .btn-primary:hover {
     background-color: #0056b3;
 }
+/* fin del estilo de contacto */
